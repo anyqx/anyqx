@@ -8,33 +8,29 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
+### Glad to see your visit!
 
-
-
-### Welcome to my page!  
-Hello! I am Annie Xu, an aspiring full-stack software engineer.
-
-As a full-stack software developer, I have enjoyed using Ruby, JavaScript, React/Redux, Ruby on Rails, PostgreSQL, AWS, Mongoose, Node.js, CSS, HTML in my projects. Currently, I'm working on projects to further sharpen my skills. I am always looking to challenge myself and be a lifelong learner!
+As a full-stack software engineer, I have enjoyed using Ruby, JavaScript, React/Redux, Ruby on Rails, PostgreSQL, AWS, Mongoose, Node.js, CSS, HTML in my projects. Currently, I'm working on projects to further sharpen my skills. I am always looking to challenge myself and be a lifelong learner!
   
 
 <br/>  
 
-Check out [MY personal website here](http://www.annieyxu.com), and let's [connect](https://www.linkedin.com/in/annie-y-xu/)!
+Check out [MY personal website](http://www.annieyxu.com), and let's [connect](https://www.linkedin.com/in/annie-y-xu/)!
 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on   
+- 🔭 I’m currently working on full-stack projects
   
 
-- 🌱 I’m currently learning   
+- 🌱 I’m currently learning to become a black diamond skier
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact:   
+- ⚡ Fun fact: I am enthusiastic in interior design, real estate, finance, sailing and charity work!
 
 
 </td><td valign="top" width="50%">
@@ -73,11 +69,11 @@ Check out [MY personal website here](http://www.annieyxu.com), and let's [connec
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anyqx&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anyqx&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyqx&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyqx&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
