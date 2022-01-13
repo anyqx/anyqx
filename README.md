@@ -82,12 +82,12 @@ Check out [MY personal website](http://www.annieyxu.com), and let's [connect](ht
 #### Top Repositories
 
 <a href="https://github.com/anyqx/super_rental">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=super_rental&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=super_rental&theme=tokyonight" />
 </a>
 <a href="https://github.com/anyqx/mern-oneroof">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=mern-oneroof&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=mern-oneroof&theme=tokyonight" />
 </a>
 <a href="https://github.com/anyqx/bouncing-penguin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=bouncing-penguin&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=bouncing-penguin&theme=tokyonight" />
 </a>
 
