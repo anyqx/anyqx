@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
-### Glad to see your visit!
+### Glad to see you visit me!
 
 As a full-stack software engineer, I have enjoyed using Ruby, JavaScript, React/Redux, Ruby on Rails, PostgreSQL, AWS, Mongoose, Node.js, CSS, HTML in my projects. Currently, I'm working on projects to further sharpen my skills. I am always looking to challenge myself and be a lifelong learner!
   
@@ -79,9 +79,15 @@ Check out [MY personal website](http://www.annieyxu.com), and let's [connect](ht
 
 <br/>  
 
-  
+#### Top Repositories
 
-<br/>  
+<a href="https://github.com/anyqx/super_rental">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=super_rental&theme=tokyonight" />
+</a>
+<a href="https://github.com/anyqx/mern-oneroof">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=mern-oneroof&theme=tokyonight" />
+</a>
+<a href="https://github.com/anyqx/bouncing-penguin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anyqx&repo=bouncing-penguin&theme=tokyonight" />
+</a>
 
-
-<br />
