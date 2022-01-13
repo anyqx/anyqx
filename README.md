@@ -12,10 +12,14 @@
 
 
 ### Welcome to my page!  
-I’m a full-stack software engineer   
+Hello! I am Annie Xu, an aspiring full-stack software engineer.
+
+As a full-stack software developer, I have enjoyed using Ruby, JavaScript, React/Redux, Ruby on Rails, PostgreSQL, AWS, Mongoose, Node.js, CSS, HTML in my projects. Currently, I'm working on projects to further sharpen my skills. I am always looking to challenge myself and be a lifelong learner!
   
 
 <br/>  
+
+Check out [MY personal website here](http://www.annieyxu.com), and let's [connect](https://www.linkedin.com/in/annie-y-xu/)!
 
 
 ## Rapidfire  
