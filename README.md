@@ -83,10 +83,5 @@ I’m a full-stack software engineer
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=anyqx&&style=flat-square)  
-  
-
-<br/>  
-
 
 <br />
