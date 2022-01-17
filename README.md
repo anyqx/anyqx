@@ -44,7 +44,6 @@ Check out [MY personal website](http://www.annieyxu.com), and let's [connect](ht
 
 <br/>  
 
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
