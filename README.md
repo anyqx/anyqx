@@ -11,7 +11,6 @@
 ### Glad to see you visit me!
 
 As a full-stack software engineer, I have enjoyed using Ruby, JavaScript, React/Redux, Ruby on Rails, PostgreSQL, AWS, Mongoose, Node.js, CSS, HTML in my projects. Currently, I'm working on projects to further sharpen my skills. I am always looking to challenge myself and be a lifelong learner!
-  
 
 <br/>  
 
