@@ -38,7 +38,6 @@ Check out [MY personal website](http://www.annieyxu.com), and let's [connect](ht
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-
 </td></tr></table>  
 
 <br/>  
