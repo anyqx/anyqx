@@ -26,7 +26,7 @@ Check out [MY personal website](http://www.annieyxu.com), and let's [connect](ht
 - 🌱 I’m currently learning to become a black diamond skier 
   
 
-- ❓ Ask me about anything related to Ruby, Ruby on Rails, MERN stack and related technologies  
+- ❓ Ask me about anything related to Ruby, Ruby on Rails, MERN stack and related technologies
   
 
 - ⚡ Fun fact: I am enthusiastic in interior design, real estate, finance, sailing and charity work!
