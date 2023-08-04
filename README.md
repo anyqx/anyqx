@@ -10,7 +10,10 @@
   
 ### Glad to see you visit me!
 
-As a full-stack software engineer, I have enjoyed using Ruby, JavaScript, React/Redux, Ruby on Rails, PostgreSQL, AWS, Mongoose, Node.js, CSS, HTML in my projects. Currently, I'm working on projects to further sharpen my skills. I am always looking to challenge myself and be a lifelong learner!
+As a full-stack software engineer, I have enjoyed using Ruby, JavaScript, React/Redux, Ruby on Rails, PostgreSQL, AWS, Mongoose, Node.js, CSS, and HTML in my projects. Currently, I'm working on projects to sharpen my skills further. I am always looking to challenge myself and be a lifelong learner!
+
+Skills: 
+Ruby, Ruby on Rails, Typescript, JavaScript, React, Redux, Next.js, Datadog, Github Action, Azure Pipeline, Storybook, Segment CDP, LaunchDarkly Experimentation, Contentful CMS,  Flutter, Dart, HTML, CSS, Mongoose, MongoDB, Node.js, Express.js, SQL, SQLite3, PostgreSQL, Webpack, jQuery, AWS
 
 <br/>  
 
@@ -26,10 +29,10 @@ Check out [MY personal website](http://www.annieyxu.com), and let's [connect](ht
 - 🌱 I’m currently learning to become a black diamond skier 
   
 
-- ❓ Ask me about anything related to Ruby, Ruby on Rails, MERN stack and related technologies
+- ❓ Ask me about anything related to programming!
   
 
-- ⚡ Fun fact: I am enthusiastic in interior design, real estate, finance, sailing and charity work!
+- ⚡ Fun fact: I am enthusiastic in interior design, real estate, finance, sailing, and charity work!
 
 
 </td><td valign="top" width="50%">
